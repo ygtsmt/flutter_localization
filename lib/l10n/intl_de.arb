@@ -1,0 +1,10 @@
+{
+    "@@locale": "de",
+    "change_language": "Sprache ändern",
+    "loginTitle": "Anmeldung",
+    "loginDescription": "Bitte geben Sie Ihre Anmeldedaten ein, um sich anzumelden.",
+    "signup_button_text": "Sie haben noch kein Konto? ",
+    "signup_button_link": "Registrieren",
+    "user_name": "Benutzer-Name",
+    "password": "Passwort"
+}

@@ -1,0 +1,10 @@
+{
+    "@@locale": "fr",
+    "loginTitle": "Connectez-vous",
+    "loginDescription": "Veuillez saisir vos informations d'identification pour vous connecter",
+    "change_language": "Changer de langue",
+    "user_name": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "signup_button_text": "Vous n'avez pas de compte ? ",
+    "signup_button_link": "S'inscrire"
+}

@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "change_language": "Change Language",
+    "signup_button_text": "Don't have an account? ",
+    "signup_button_link": "Sign up",
+    "password": "Password",
+    "loginTitle": "Login",
+    "loginDescription": "Please enter your credentials to login.",
+    "user_name": "User Name"
+
+}
